@@ -1,0 +1,19 @@
+body {
+  background-color: #A5C9CA
+
+}
+
+hr {
+  border-style: dotted none none;
+  border-color:grey;
+  border-width:8px;
+  height: 0px;
+  width: 5%
+}
+h1:hover{
+  color: blue;
+}
+H3{COLOR:#66BFBF;}
+.logo{border-radius: 100%;}
+.hname{color:#66BFBF;}
+.contact{color: #66BFBF;}
